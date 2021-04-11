@@ -2,7 +2,7 @@
 
 ## Description
 
-This application is intended to organize a person's daily work life with simple to use features within the browser.
+This application is intended to organize a person's fitness routine with simple to use features within the browser.
 
 ## Table of Contents
 
@@ -21,13 +21,11 @@ This application is intended to organize a person's daily work life with simple 
 ## Links
 
 * Project Repo: [Repository](https://github.com/Darrellfr3/FItness-Tracker)
-* GitHub Page: [Website](https://jeishu.github.io/work-day-scheduler/)
+* GitHub Page: [Website](https://cryptic-cliffs-15422.herokuapp.com/)
 
 ## Screenshots
 
-Nothing here yet.
-
-![Nothing Here](./assets/images/testgif.gif)
+![Workout](./screenshot.png)
 
 
 ## Language
@@ -35,6 +33,8 @@ Nothing here yet.
 * JavaScript
 * HTML
 * CSS
+* [Express](https://expressjs.com/)
+* [Morgan](https://www.mongodb.com/)
+* [Mongo](https://jquery.com/)
 * [jQuery](https://jquery.com/)
-* [Moment.js](https://momentjs.com/)
 * [Bootstrap](https://getbootstrap.com/)
