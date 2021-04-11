@@ -1,4 +1,4 @@
-# Work Day Scheduler
+# Fitness Routine Tracker
 
 ## Description
 
